@@ -1,7 +1,7 @@
-import os
+#import os
 
 # Install scikit-learn
-os.system('pip install scikit-learn')
+#os.system('pip install scikit-learn')
 
 
 import streamlit as st
